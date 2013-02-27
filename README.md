@@ -24,4 +24,4 @@ Usage
 To automatically change the OSX Login Window text you can choose:
 
 1. an entry in crontab to run the script with the frequency that you want to
-2. add a call to the script in  the "System Preferences" -> "Accounts" men�
+2. add a call to the script in  the "System Preferences" -> "Accounts" menu'
